@@ -15,6 +15,7 @@
 		043216F822F94C0100C572B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 043216F622F94C0100C572B2 /* LaunchScreen.storyboard */; };
 		0432170122F9576B00C572B2 /* UITraitCollection+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0432170022F9576B00C572B2 /* UITraitCollection+.swift */; };
 		0432170322F95B1D00C572B2 /* UIColor+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0432170222F95B1D00C572B2 /* UIColor+.swift */; };
+		04701A0A22FA915F00E8811E /* Colors.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04701A0922FA915E00E8811E /* Colors.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		043216F922F94C0100C572B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0432170022F9576B00C572B2 /* UITraitCollection+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITraitCollection+.swift"; sourceTree = "<group>"; };
 		0432170222F95B1D00C572B2 /* UIColor+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+.swift"; sourceTree = "<group>"; };
+		04701A0922FA915E00E8811E /* Colors.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Colors.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				043216EF22F94BFF00C572B2 /* ViewController.swift */,
 				043216F122F94BFF00C572B2 /* Main.storyboard */,
 				043216F422F94C0100C572B2 /* Assets.xcassets */,
+				04701A0922FA915E00E8811E /* Colors.xcassets */,
 				043216F622F94C0100C572B2 /* LaunchScreen.storyboard */,
 				043216F922F94C0100C572B2 /* Info.plist */,
 			);
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				043216F822F94C0100C572B2 /* LaunchScreen.storyboard in Resources */,
+				04701A0A22FA915F00E8811E /* Colors.xcassets in Resources */,
 				043216F522F94C0100C572B2 /* Assets.xcassets in Resources */,
 				043216F322F94BFF00C572B2 /* Main.storyboard in Resources */,
 			);
